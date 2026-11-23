@@ -1,0 +1,12 @@
+{
+    "scores": {
+        "academic_pressure": 60,
+        "focus_score": 70,
+        "balance_score": 75
+    },
+    "activity": {
+        "name": "food snack",
+        "duration": 30,
+        "exertion": "Low"
+    }
+}

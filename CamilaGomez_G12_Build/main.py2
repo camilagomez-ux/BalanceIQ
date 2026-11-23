@@ -1,0 +1,5 @@
+current_level = 1  # current level of learning
+vocabulary_score = 0  # how well they know the vocabulary they have studied
+grammar_score = 0  # how good they are at that languages grammar
+listening_score = 0  # how well they can understand the listening practice
+review_streak = 0  # how many days in a row they have studied

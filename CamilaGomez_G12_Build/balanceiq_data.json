@@ -1,0 +1,12 @@
+{
+    "scores": {
+        "academic_pressure": 85,
+        "focus_score": 50,
+        "balance_score": 50
+    },
+    "activity": {
+        "name": "Studying",
+        "duration": 60,
+        "exertion": "Moderate"
+    }
+}
